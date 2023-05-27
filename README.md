@@ -1,2 +1,2 @@
 # MoveSemantics
-This Article explain move semantic in cpp
+This Article explain move semantics in cpp
